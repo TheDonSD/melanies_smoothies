@@ -1,1 +1,2 @@
 Add SEARCH_ON field to database to match smoothiefroot values to values in our table
+Fix multiselect issue that prompts user re 5 fruits when they have only selected 5
